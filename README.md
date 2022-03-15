@@ -1,1 +1,2 @@
 # odin-recipes
+In this project we will create a website using basic knowledge about HTML. THis includes, writting the boilerplate, using different elements in the body such as paragraphs and headers, and also use images and links. 
